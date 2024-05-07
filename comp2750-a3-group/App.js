@@ -13,7 +13,7 @@ export default function App() {
 
     <View style={{justifyContent: 'center', alignContent: 'center'}}>
     <Image 
-      style={styles} 
+      style={styles.banner1} 
       source={require('./assets/illustration-organic-farming-concept-with-farmer_23-2148424155.jpg')}
     />
     </View>
